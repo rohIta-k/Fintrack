@@ -103,6 +103,12 @@ fintrack/
 
 ---
 
+## 🌐 Live Demo
+
+👉 [View FinTrack Live](https://fintrack-beta-three.vercel.app/)
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
