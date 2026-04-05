@@ -5,6 +5,17 @@
 
 ---
 
+## 🧠 Approach
+
+- **Mock API Layer**: Instead of a backend, all data is fetched through simulated APIs using local JSON files. This helps mimic real asynchronous data flow.
+- **Analytics Engine**: Core financial insights (like spending trends, savings rate, and category breakdown) are computed using utility functions.
+- **Component-Based Design**: The UI is structured into reusable and modular components (cards, charts, tables) for scalability and maintainability.
+- **Feature-Based Structure**: Each major section (Dashboard, Transactions, Reports) is organized as an independent module.
+- **State Management**: React hooks (`useState`, `useEffect`, custom hooks) are used to manage data flow and UI updates efficiently.
+- **Performance & UX**: Includes skeleton loaders, debouncing, and optimized rendering for smooth user experience.
+
+---
+
 ## 📸 Screenshots
 
 ### 📊 Dashboard
@@ -18,31 +29,43 @@
 
 ---
 
-## ✨ Features
+## ✨ Feature Breakdown
 
 ### 📊 Dashboard
-- Total balance, income, and expense overview  
-- Monthly balance trend visualization  
-- Category-wise spending breakdown 
+- Displays a summary of:
+  - Total Balance
+  - Income
+  - Expenses
+- Monthly **balance trend chart**
+- **Spending breakdown** using a donut chart
+- Fetches data from mock API
 
 ---
 
 ### 📈 Reports & Insights
-- Top spending category  
-- Highest spending month  
-- Longest expense streak  
-- Average monthly savings  
-- Category trends chart  
-- Income vs Expense comparison  
+- Automatically generated financial insights:
+  - Top spending category
+  - Highest spending month
+  - Longest expense streak
+  - Average monthly savings
+- **Category trends chart** (multi-line)
+- **Income vs Expense comparison chart**
+- Helps users understand financial behavior patterns
 
 ---
 
 ### 💳 Transactions
-- Paginated transaction table  
-- Advanced filters (search, category, type, date, amount)  
-- Admin features:
-  - Add transaction  
-  - Edit transaction  
+- View all transactions in a **paginated table**
+- Advanced filtering:
+  - Search (notes/category)
+  - Type (income/expense)
+  - Category
+  - Date range
+  - Amount range
+- **Admin Features**:
+  - Add new transactions
+  - Edit existing transactions
+- Modal-based UI for seamless interaction
 
 ---
 
