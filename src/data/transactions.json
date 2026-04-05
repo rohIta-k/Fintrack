@@ -1,0 +1,162 @@
+[
+  {
+    "id": "tx1",
+    "date": "2026-04-01",
+    "amount": 45000,
+    "type": "income",
+    "category": "salary",
+    "notes": "Monthly salary"
+  },
+  {
+    "id": "tx2",
+    "date": "2026-04-02",
+    "amount": 1200,
+    "type": "expense",
+    "category": "food",
+    "notes": "Swiggy order"
+  },
+  {
+    "id": "tx3",
+    "date": "2026-04-03",
+    "amount": 800,
+    "type": "expense",
+    "category": "transport",
+    "notes": "Uber rides"
+  },
+  {
+    "id": "tx4",
+    "date": "2026-04-05",
+    "amount": 3000,
+    "type": "expense",
+    "category": "shopping",
+    "notes": "Clothes"
+  },
+  {
+    "id": "tx5",
+    "date": "2026-03-28",
+    "amount": 2000,
+    "type": "expense",
+    "category": "bills",
+    "notes": "Electricity bill"
+  },
+  {
+    "id": "tx6",
+    "date": "2026-03-25",
+    "amount": 15000,
+    "type": "income",
+    "category": "freelance",
+    "notes": "Website project"
+  },
+  {
+    "id": "tx7",
+    "date": "2026-03-20",
+    "amount": 2200,
+    "type": "expense",
+    "category": "entertainment",
+    "notes": "Movie + snacks"
+  },
+  {
+    "id": "tx8",
+    "date": "2026-02-15",
+    "amount": 5000,
+    "type": "income",
+    "category": "investments",
+    "notes": "Stock profit"
+  },
+  {
+    "id": "tx9",
+    "date": "2026-02-18",
+    "amount": 1800,
+    "type": "expense",
+    "category": "food",
+    "notes": "Dining out"
+  },
+  {
+    "id": "tx10",
+    "date": "2026-02-22",
+    "amount": 2500,
+    "type": "expense",
+    "category": "health",
+    "notes": "Doctor visit"
+  },
+  {
+    "id": "tx11",
+    "date": "2026-01-10",
+    "amount": 45000,
+    "type": "income",
+    "category": "salary",
+    "notes": "Monthly salary"
+  },
+  {
+    "id": "tx12",
+    "date": "2026-01-12",
+    "amount": 1000,
+    "type": "expense",
+    "category": "transport",
+    "notes": "Fuel"
+  },
+  {
+    "id": "tx13",
+    "date": "2026-01-18",
+    "amount": 3500,
+    "type": "expense",
+    "category": "shopping",
+    "notes": "Amazon order"
+  },
+  {
+    "id": "tx14",
+    "date": "2026-01-25",
+    "amount": 1800,
+    "type": "expense",
+    "category": "food",
+    "notes": "Zomato"
+  },
+  {
+    "id": "tx15",
+    "date": "2025-12-28",
+    "amount": 7000,
+    "type": "income",
+    "category": "business",
+    "notes": "Side hustle"
+  },
+  {
+    "id": "tx16",
+    "date": "2025-12-20",
+    "amount": 4000,
+    "type": "expense",
+    "category": "travel",
+    "notes": "Weekend trip"
+  },
+  {
+    "id": "tx17",
+    "date": "2025-12-15",
+    "amount": 1200,
+    "type": "expense",
+    "category": "food",
+    "notes": ""
+  },
+  {
+    "id": "tx18",
+    "date": "2025-11-30",
+    "amount": 45000,
+    "type": "income",
+    "category": "salary",
+    "notes": "Monthly salary"
+  },
+  {
+    "id": "tx19",
+    "date": "2025-11-25",
+    "amount": 2200,
+    "type": "expense",
+    "category": "bills",
+    "notes": "Internet + electricity"
+  },
+  {
+    "id": "tx20",
+    "date": "2025-11-18",
+    "amount": 900,
+    "type": "expense",
+    "category": "others",
+    "notes": null
+  }
+]
