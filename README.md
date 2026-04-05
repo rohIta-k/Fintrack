@@ -8,13 +8,13 @@
 ## 📸 Screenshots
 
 ### 📊 Dashboard
-![Dashboard Screenshot](./screenshots/dashboard.png)
+![Dashboard Screenshot](./public/screenshots/dashboard.png)
 
 ### 📈 Reports & Insights
-![Reports Screenshot](./screenshots/reports.png)
+![Reports Screenshot](./public/screenshots/reports.png)
 
 ### 💳 Transactions
-![Transactions Screenshot](./screenshots/transactions.png)
+![Transactions Screenshot](./public/screenshots/transactions.png)
 
 ---
 
